@@ -5,21 +5,21 @@ This document provides an overview of 5G mobile network architecture and key con
 
 ## Contents
 
-- [Evolution from 4G to 5G](#evolution-from-4g-to-5g)
-- [5G Architecture](#5g-architecture)
-  - [Control/User Plane Separation (CUPS)](#controluser-plane-separation-cups)
-  - [Virtualization](#virtualization) 
-  - [Service-Based Architecture (SBA)](#service-based-architecture-sba)
-  - [Network Functions](#network-functions)
-- [Protocols and Interfaces](#protocols-and-interfaces)
-  - [NAS, GTP, HTTP/2, REST APIs](#nas-gtp-http2-rest-apis)
-- [5G Concepts](#5g-concepts)
-  - [Network Slicing](#network-slicing)
-  - [Quality of Service (QoS)](#quality-of-service-qos)
-- [Use Cases](#use-cases)
-  - [Enhanced Mobile Broadband (eMBB)](#enhanced-mobile-broadband-embb)
-  - [Ultra-Reliable Low Latency Communications (URLLC)](#ultra-reliable-low-latency-communications-urllc)
-  - [Massive Machine Type Communications (mMTC)](#massive-machine-type-communications-mmtc)
+- Evolution from 4G to 5G](#evolution-from-4g-to-5g)
+- 5G Architecture(#5g-architecture)
+  - Control/User Plane Separation (CUPS)(#controluser-plane-separation-cups)
+  - Virtualization(#virtualization) 
+  - Service-Based Architecture (SBA)(#service-based-architecture-sba)
+  - Network Functions(#network-functions)
+- Protocols and Interfaces(#protocols-and-interfaces)
+  - NAS, GTP, HTTP/2, REST APIs(#nas-gtp-http2-rest-apis)
+- 5G Concepts(#5g-concepts)
+  - Network Slicing(#network-slicing)
+  - Quality of Service (QoS)(#quality-of-service-qos)
+  Use Cases(#use-cases)
+  - Enhanced Mobile Broadband (eMBB)(#enhanced-mobile-broadband-embb)
+  - Ultra-Reliable Low Latency Communications (URLLC)(#ultra-reliable-low-latency-communications-urllc)
+  - Massive Machine Type Communications (mMTC)(#massive-machine-type-communications-mmtc)
 
 ## Summary
 
